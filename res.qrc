@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/background.png</file>
+        <file>Images/button2.jpg</file>
+        <file>Images/button3.jpg</file>
+        <file>Images/stfinal.jpg</file>
+        <file>Images/windowIcon.jpg</file>
+        <file>Images/realfinalstart.png</file>
+        <file>Images/back.jpg</file>
+        <file>Images/exit.png</file>
+        <file>Images/round.jpg</file>
+        <file>Images/circlered.jpg</file>
+        <file>Images/circleGreen.jpg</file>
+        <file>Images/circleYellow.jpg</file>
+        <file>Images/circleCyan.jpg</file>
+        <file>Images/circlePink.jpg</file>
+        <file>Images/circlePurple.jpg</file>
+        <file>Images/circleOrange.jpg</file>
+        <file>Images/4.jpg</file>
+        <file>Images/5.jpg</file>
+        <file>Images/6.jpg</file>
+    </qresource>
+</RCC>
